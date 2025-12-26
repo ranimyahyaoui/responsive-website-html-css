@@ -10,8 +10,8 @@ This is my first responsive website built using HTML5 and CSS3.
 - Contact form
 
 ## Technologies
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Live Demo
 https://gentle-chebakia-d96d9e.netlify.app
